@@ -1,4 +1,4 @@
-const calc = require('./calc.js');
+const calc = require('../src/calc.js');
 
 test('더하기 테스트', () => {
   // Given
