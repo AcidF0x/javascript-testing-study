@@ -21,3 +21,5 @@ class coffeeVendingMachine {
     return count + "잔 나왔습니다";
   }
 }
+
+module.exports = coffeeVendingMachine;
